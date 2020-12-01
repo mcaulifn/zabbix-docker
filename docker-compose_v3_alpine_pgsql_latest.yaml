@@ -455,7 +455,7 @@ networks:
     #driver: bridge
     #driver_opts:
     #  com.docker.network.enable_ipv6: "false"
-    internal: true
+    #internal: true
     #ipam:
     #  driver: default
     #  config:
